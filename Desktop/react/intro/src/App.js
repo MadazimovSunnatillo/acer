@@ -8,7 +8,6 @@ function App() {
       <Header />
       <Showcase />
       <Footer />
-      
       <h1 className="main-title">Hammaga Salom!</h1>;
     </div>
   );
